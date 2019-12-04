@@ -1,5 +1,5 @@
 # XMind2TestCase
-直接运行/Users/huaan720/Downloads/百度网盘/xmind2testcase-master/webtool/application.py这个脚本就好了
+直接运行/Users/***/Downloads/百度网盘/xmind2testcase-master/webtool/application.py这个脚本就好了
 > **XMind2TestCase** 工具，提供了一个高效测试用例设计的解决方案！
 
 
